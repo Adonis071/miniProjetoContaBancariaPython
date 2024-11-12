@@ -1,3 +1,4 @@
+
 menu = """
 Escolha uma das opções:
 [a] Depositar
